@@ -95,4 +95,4 @@ java -jar tasktracker.jar delete 1
 ##  Licencia
 Este proyecto es de uso libre para fines educativos y personales.
 ##  Repositorio
-https://github.com/CarlosGuerreroC/TaskTracker.git
+https://github.com/CarlosGuerreroC/TaskTracker
